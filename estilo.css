@@ -34,3 +34,11 @@ body
 {
   color: blueviolet;
 }
+#footer
+{
+  width: 97%;
+  padding: 1em;
+  color: pink;
+  text-align: center;
+  border:1px solid aqua;
+}
